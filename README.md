@@ -195,6 +195,23 @@ Despite the benefits, data lakes also have several limitations:
 
 ## Delta Lake
 
+Delta Lake is an open-source storage layer that brings reliability to data lakes. Delta Lake provides ACID (Atomicity, Consistency, Isolation, Durability) transaction properties to big data workloads, enhancing the capabilities of a data lake to support robust data handling and analytics. It is built on top of existing data lake technologies and is fully compatible with Apache Spark.
+
+Delta Lake is typically used in contexts where data quality, reliability, and strong governance are required but still need the scalability and cost-effectiveness of a data lake. It is ideal for scenarios involving big data processing, streaming data analytics, machine learning, and real-time data ingestion.
+
+The primary type of Delta Lake is implemented as a storage layer that sits above a traditional data lake, utilizing Parquet files as its base storage format. It manages metadata for each dataset in a transaction log that records details about every change made to the data.
+
+While Delta Lake offers several significant advantages, it also has some limitations:
+
+**Performance Overhead**: The transaction log mechanism can introduce some performance overhead, especially in scenarios with high-frequency updates or access patterns that are not well-optimized.
+
+**Complexity in Setup and Management**: Setting up and managing a Delta Lake architecture, especially at scale, requires a good understanding of both the underlying data lake technology and the Delta Lake layer.
+
+**Dependency on Apache Spark**: While Delta Lake is highly optimized for use with Apache Spark, this can be a limitation for organizations that do not use Spark as part of their data architecture.
+
+**Limited to Certain Ecosystems**: Since Delta Lake is primarily designed to enhance data lakes that use Parquet files, its use is somewhat restricted to environments that are compatible with this format and with Spark.
+
+**Data Consistency**: While it enhances data consistency compared to basic data lakes, the eventual consistency model in highly distributed environments can still pose challenges for some real-time applications.
 
 ## Data Mesh
 
