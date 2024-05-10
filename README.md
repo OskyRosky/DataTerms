@@ -45,11 +45,15 @@ The most widely used spreadsheet software includes Microsoft Excel, Google Sheet
 
 Despite their versatility, spreadsheets have several limitations:
 
-**Scalability** :  They can become slow and cumbersome as the volume of data grows, making them unsuitable for handling very large datasets or real-time data processing.
+**Scalability**:  They can become slow and cumbersome as the volume of data grows, making them unsuitable for handling very large datasets or real-time data processing.
+
 **Error-Prone**:  Manual data entry and formula setup can lead to errors that are hard to trace and correct.
+
 **Collaboration Issues**: While modern cloud-based solutions like Google Sheets allow for better collaboration, traditional spreadsheets can be difficult to manage and synchronize across multiple users.
-**Security** : Basic spreadsheets provide limited security options for sensitive data, lacking advanced access controls and audit trails.
-**Data Integrity** : Without strict controls, data in spreadsheets can be easily altered, leading to issues with data consistency and reliability.
+
+**Security**: Basic spreadsheets provide limited security options for sensitive data, lacking advanced access controls and audit trails.
+
+**Data Integrity**: Without strict controls, data in spreadsheets can be easily altered, leading to issues with data consistency and reliability.
 
 ## DataFrame
 
