@@ -154,8 +154,8 @@ A datamart is a specialized subset of a data warehouse that focuses on a specifi
 
 <table>
   <tr>
-    <td><img src="/images/image5.png" alt="DataMart1" style="width: 250px;"/></td>
-    <td><img src="/images/image5.webp" alt="DataMart2" style="width: 250px;"/></td>
+    <td><img src="/images/image5.png" alt="DataMart1" style="width: 450px;"/></td>
+    <td><img src="/images/image5.webp" alt="DataMart2" style="width: 450px;"/></td>
   </tr>
 </table>
 
