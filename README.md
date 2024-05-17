@@ -154,6 +154,13 @@ A datamart is a specialized subset of a data warehouse that focuses on a specifi
 
 ![DataTerms](/images/image5.png)
 
+<table>
+  <tr>
+    <td><img src="/images/image5.png" alt="DataMart1" style="width: 150px;"/></td>
+    <td><img src="/images/image5.webp" alt="DataMart2" style="width: 150px;"/></td>
+  </tr>
+</table>
+
 Datamarts are designed to facilitate access to commonly needed data sets, streamlining the process of data retrieval and analysis for specific business functions or user groups. They are suitable for specialized information needs that don't require the breadth of data typically found in a full data warehouse.
 
 There are several types of datamarts based on their method of sourcing data:
