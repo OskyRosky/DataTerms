@@ -61,7 +61,7 @@ Despite their versatility, spreadsheets have several limitations:
 
 A DataFrame is a two-dimensional, size-mutable, potentially heterogeneous tabular data structure with labeled axes (rows and columns). It is widely used in data manipulation, data analysis, and data cleaning processes, particularly in the context of programming and data science environments.
 
-![DataTerms](/images/image2.jpeg)
+![DataTerms](/images/image2.png)
 
 DataFrames are used to store and manipulate structured data, where each column can have a type, such as integer, float, or string. They are ideal for handling complex operations involving large datasets, such as grouping data, merging multiple data sources, and pivot operations, which are cumbersome in traditional spreadsheets.
 
