@@ -92,6 +92,8 @@ Despite their power and flexibility, DataFrames have several limitations:
 
 A database is an organized collection of structured information or data, typically stored electronically in a computer system. It is used across various contexts such as business operations, online applications, data analytics, and anywhere that requires storage, retrieval, management, and manipulation of data.
 
+![DataTerms](/images/image3.png)
+
 Databases are designed to handle various types of information, ranging from simple data like names and addresses to more complex data like transaction processing systems or interactive websites.
 
 There are several types of databases, including:
