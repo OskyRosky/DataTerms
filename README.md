@@ -152,12 +152,10 @@ Despite their advantages, data warehouses have several limitations:
 
 A datamart is a specialized subset of a data warehouse that focuses on a specific business line or department, such as sales, finance, or marketing. It provides a smaller, more targeted view of an organization’s data for specific analytics or reporting purposes. Datamarts are typically used in contexts where businesses require rapid access to specific types of data that are segmented from the larger datasets stored in a data warehouse.
 
-![DataTerms](/images/image5.png)
-
 <table>
   <tr>
-    <td><img src="/images/image5.png" alt="DataMart1" style="width: 150px;"/></td>
-    <td><img src="/images/image5.webp" alt="DataMart2" style="width: 150px;"/></td>
+    <td><img src="/images/image5.png" alt="DataMart1" style="width: 250px;"/></td>
+    <td><img src="/images/image5.webp" alt="DataMart2" style="width: 250px;"/></td>
   </tr>
 </table>
 
