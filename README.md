@@ -491,13 +491,7 @@ Overall, ELT is particularly valuable in data-driven environments that require f
 
 ## Resource Managment
 
-# Data Era
 
-##
-
-##
-
-##
 
 
 
