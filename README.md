@@ -185,6 +185,8 @@ Despite their benefits, datamarts have several limitations:
 
 A data lake is a large-scale storage repository and processing engine that holds a vast amount of raw data in its native format until it is needed. Unlike a traditional data warehouse, which stores data in a structured format, data lakes are designed to store unstructured, semi-structured, and structured data. This flexibility allows data lakes to support a wide variety of analytics including machine learning, real-time analytics, and big data processing.
 
+![DataTerms](/images/image6.png)
+
 Data lakes are typically used in contexts where organizations need to capture and store large volumes of diverse data from multiple sources without initially knowing how they will use that data. They are suitable for industries like marketing, social media, healthcare, and financial services, where data can be collected in various forms and later analyzed for different purposes.
 
 There are several approaches or architectures for implementing a data lake:
@@ -211,6 +213,8 @@ Despite the benefits, data lakes also have several limitations:
 
 Delta Lake is an open-source storage layer that brings reliability to data lakes. Delta Lake provides ACID (Atomicity, Consistency, Isolation, Durability) transaction properties to big data workloads, enhancing the capabilities of a data lake to support robust data handling and analytics. It is built on top of existing data lake technologies and is fully compatible with Apache Spark.
 
+![DataTerms](/images/image7.png)
+
 Delta Lake is typically used in contexts where data quality, reliability, and strong governance are required but still need the scalability and cost-effectiveness of a data lake. It is ideal for scenarios involving big data processing, streaming data analytics, machine learning, and real-time data ingestion.
 
 The primary type of Delta Lake is implemented as a storage layer that sits above a traditional data lake, utilizing Parquet files as its base storage format. It manages metadata for each dataset in a transaction log that records details about every change made to the data.
@@ -230,6 +234,13 @@ While Delta Lake offers several significant advantages, it also has some limitat
 ## Data Lake vs Delta Lake
 
 Data Lake and Delta Lake are related but distinct concepts in data management, each serving different purposes and offering unique capabilities. Here’s a breakdown of their main differences:
+
+<table>
+  <tr>
+    <td><img src="/images/image8.png" alt="DataMart1" style="width: 450px;"/></td>
+    <td><img src="/images/image8.2.png" alt="DataMart2" style="width: 450px;"/></td>
+  </tr>
+</table>
 
 ### Concept and Functionality
 Data Lake
