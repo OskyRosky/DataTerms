@@ -122,6 +122,7 @@ Despite the versatility and power of databases, they come with several limitatio
 
 ## Data Wharehouse
 
+![DataTerms](/images/image4.png)
 
 A data warehouse is a centralized repository that stores integrated data from multiple sources. It is specifically structured for query and analysis, providing support for decision making, reporting, and business intelligence. Data warehouses are typically used in enterprise scenarios where organizations need to analyze large volumes of data from various business processes and departments for better strategic insights.
 
