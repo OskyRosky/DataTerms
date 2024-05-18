@@ -35,7 +35,9 @@
 
  Everything about Data manipulatons terms
 
-# Data Storage
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# I. Data Storage
 
 ## Spreadsheet
 
@@ -324,10 +326,10 @@ While Data Mesh provides a robust framework for managing data in large, complex 
 
 Data Mesh represents a shift towards a more agile, domain-centric approach to data architecture, aiming to enhance the speed, scalability, and effectiveness of data-driven decision making across large and complex organizations.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-# Data Proces
+# II. Data Proces
 
 ## Data Ingestion
 
@@ -453,8 +455,9 @@ Overall, ELT is particularly valuable in data-driven environments that require f
 
 ## Data Testing Frameworks
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Data Engineering Terms
+# III. Data Engineering Terms
 
 ## Data Modeling
 
