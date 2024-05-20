@@ -416,6 +416,8 @@ Overall, data ingestion is a fundamental process in establishing a data-driven i
 
 ETL, which stands for Extract, Transform, Load, is a process that involves extracting data from various sources, transforming it to fit operational needs, and loading it into a destination database or data warehouse. This process is essential for data integration and plays a crucial role in data warehousing, business intelligence, and analytics.
 
+![DataTerms](/images/image11.webp)
+
 ### Context of Use
 ETL is primarily used in scenarios involving data warehousing where data needs to be cleansed, enriched, and transformed before it is ready for analysis and reporting. It is critical in business intelligence to aggregate data from different sources to provide a consolidated view, making it easier for organizations to make data-driven decisions.
 
@@ -456,6 +458,8 @@ ETL remains a critical component in data-driven environments, enabling effective
 
 ELT stands for Extract, Load, Transform, which is a variation of the traditional Extract, Transform, Load (ETL) data integration process. In ELT, data is extracted from the source systems, loaded directly into the target data storage system, usually a data warehouse or data lake, and then transformed within that platform.
 
+![DataTerms](/images/image12.png)
+
 ### Context of Use
 ELT is primarily utilized in modern data environments where the data storage systems have high processing capabilities, such as cloud-based data warehouses like Amazon Redshift, Google BigQuery, and Snowflake. These platforms are capable of handling large-scale data transformations efficiently after the data has been loaded, which is ideal for big data scenarios and real-time analytics where speed and freshness of data are crucial.
 
@@ -486,6 +490,8 @@ Overall, ELT is particularly valuable in data-driven environments that require f
 
 Reverse ETL is a data integration process where operational data from a data warehouse or data lake is moved into operational systems or SaaS applications. It effectively "reverses" the traditional ETL process, which focuses on extracting data from source systems and loading it into a warehouse for analysis. Reverse ETL is used to leverage analytics insights for operational workflows, enhancing business processes by making them more data-driven.
 
+![DataTerms](/images/image13.png)
+
 ### Context of Use
 Reverse ETL is commonly used in scenarios where businesses want to operationalize their analytics. This means taking insights derived from data stored in large data repositories and pushing them back into daily business operations. For example, updating CRM systems with customer segmentation data or enriching marketing tools with targeted customer profiles derived from deep analytics.
 
@@ -514,6 +520,8 @@ Reverse ETL is a powerful approach for businesses looking to make their operatio
 ## Staging area
 
 A staging area in data management is an intermediate storage area used for data processing during the Extract, Transform, Load (ETL) process. It is a crucial component in data warehousing architectures.
+
+![DataTerms](/images/image14.png)
 
 ### Purpose and Justification
 
@@ -585,6 +593,8 @@ Effective management and implementation of loading processes are crucial to ensu
 
 A data pipeline refers to a series of data processing steps where data is moved and transformed from one stage to another, ultimately being prepared for analysis or operational use. This system automates the flow of data between multiple points, including data collection, ingestion, processing, and storage.
 
+![DataTerms](/images/image16.png)
+
 ### Context of Use
 
 Data pipelines are utilized in contexts where data needs to be efficiently processed and made available for analytics, reporting, or operational use. This includes scenarios such as:
@@ -623,6 +633,8 @@ Data pipelines are vital for organizations to efficiently process and leverage t
 
 Data Wrangling, also known as data munging, is the process of cleaning, structuring, and enriching raw data into a desired format for better decision making in less time. It involves transforming and mapping data from one "raw" data form into another format that allows for more convenient consumption of the data with the help of semi-automated tools.
 
+![DataTerms](/images/image17.png)
+
 ### Context of Use
 Data wrangling is typically used in data science and analytics where there is a need to transform messy or complex data sets into a structured form. Analysts and data scientists spend a significant amount of time wrangling data to prepare it for analysis, especially when dealing with big data or new data sources for machine learning projects or business intelligence.
 
@@ -660,6 +672,8 @@ Effective data wrangling is crucial for any data-driven decision-making process,
 
 Data Testing Frameworks are tools and methodologies used to ensure the integrity, accuracy, and reliability of data within data pipelines and storage systems. These frameworks help identify and rectify data issues before the data is used for decision-making or analytics, ensuring that stakeholders can trust the outputs of their data processes.
 
+![DataTerms](/images/image18.webp)
+
 ### Context of Use
 
 Data testing frameworks are utilized in contexts where data quality is critical, such as:
@@ -696,6 +710,9 @@ Data testing frameworks play a crucial role in maintaining the health and usabil
 ## Data Migration
 
 Data Migration refers to the process of transferring data from one system to another, which might involve a change in database or application systems, or migration to a cloud environment. This process is critical during system upgrades, consolidation of data centers, or when switching to newer storage systems.
+
+![DataTerms](/images/image19.webp)
+
 
 ### Context of Use
 
