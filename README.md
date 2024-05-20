@@ -2,20 +2,24 @@
 **Repository summary**
 
 1.  **Intro** 🧳
+
 This repository is dedicated to exploring and defining key concepts and practices within the field of data engineering. Data engineering focuses on designing, building, and managing the infrastructure and systems that enable the collection, storage, processing, and analysis of large volumes of data. This repository covers essential topics including data storage, data processing, and various other data engineering terms.
 
 
 2.  **Tech Stack** 🤖
+
 The repository leverages a diverse technology stack to cover the broad spectrum of data engineering topics. This includes tools and platforms for data storage (like relational databases, NoSQL databases, and data lakes), data processing (batch and stream processing frameworks like Apache Hadoop and Apache Spark), and data management and orchestration (such as Apache Airflow, Kubernetes, and cloud services like AWS, Google Cloud, and Azure).
 
 3.  **Features** 🤳🏽
+
 **Comprehensive Definitions**: Detailed explanations of key data engineering terms and concepts.
 **Practical Examples**: Real-world use cases and examples to illustrate each concept.
 **Visual Aids**: Diagrams, charts, and images to help visualize complex topics.
 **Resource Links**: References to further reading and external resources for in-depth understanding.
 **Regular Update**s: Ongoing additions and updates to ensure the content stays current with industry trends.
 
-4.  **Process** 👣
+5.  **Process** 👣
+
 The repository is structured to guide users through the fundamental aspects of data engineering:
 
 **Data Storage**: Understanding various storage solutions and architectures.
@@ -25,6 +29,7 @@ The repository is structured to guide users through the fundamental aspects of d
 Each section is designed to build on the previous one, providing a comprehensive learning path from basic concepts to advanced topics.
 
 5.  **Learning** 💡
+   
 Users will gain:
 
 **Foundational Knowledge**: A solid understanding of core data engineering principles.
@@ -33,6 +38,7 @@ Users will gain:
 **Problem-Solving Skills**: Techniques for addressing common challenges in data engineering.
 
 6.  **Improvement** 🔩
+   
 The repository is open to contributions and continuous improvement:
 
 **Community Feedback**: Users are encouraged to provide feedback and suggest improvements.
@@ -40,6 +46,7 @@ The repository is open to contributions and continuous improvement:
 **Ongoing Research**: Regular updates based on the latest research and industry best practices.
 
 7.  **Running the Project** ⚙️
+   
 To run and utilize the content in this repository:
 
 1. Clone the Repository: Use git clone to download the repository to your local machine.
@@ -48,6 +55,7 @@ To run and utilize the content in this repository:
 4. Contribute: Make improvements or add new content by creating pull requests.
 
 8.  **More** 🙌🏽
+   
 For more information and resources:
 
 **Official Documentation**: Links to official documentation for tools and technologies covered in the repository.
