@@ -49,10 +49,10 @@ The repository is open to contributions and continuous improvement:
    
 To run and utilize the content in this repository:
 
-1. Clone the Repository: Use git clone to download the repository to your local machine.
-2. Explore the Content: Navigate through the directories to find the topics and resources you need.
-3. Use the Examples: Follow the practical examples provided to apply the concepts to real-world scenarios.
-4. Contribute: Make improvements or add new content by creating pull requests.
+a. Clone the Repository: Use git clone to download the repository to your local machine.
+b. Explore the Content: Navigate through the directories to find the topics and resources you need.
+c. Use the Examples: Follow the practical examples provided to apply the concepts to real-world scenarios.
+d. Contribute: Make improvements or add new content by creating pull requests.
 
 8.  **More** 🙌🏽
    
