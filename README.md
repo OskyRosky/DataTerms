@@ -633,7 +633,7 @@ Data pipelines are vital for organizations to efficiently process and leverage t
 
 Data Wrangling, also known as data munging, is the process of cleaning, structuring, and enriching raw data into a desired format for better decision making in less time. It involves transforming and mapping data from one "raw" data form into another format that allows for more convenient consumption of the data with the help of semi-automated tools.
 
-![DataTerms](/images/image17.png)
+![DataTerms](/images/image17.jpeg)
 
 ### Context of Use
 Data wrangling is typically used in data science and analytics where there is a need to transform messy or complex data sets into a structured form. Analysts and data scientists spend a significant amount of time wrangling data to prepare it for analysis, especially when dealing with big data or new data sources for machine learning projects or business intelligence.
