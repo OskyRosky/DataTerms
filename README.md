@@ -593,7 +593,7 @@ Effective management and implementation of loading processes are crucial to ensu
 
 A data pipeline refers to a series of data processing steps where data is moved and transformed from one stage to another, ultimately being prepared for analysis or operational use. This system automates the flow of data between multiple points, including data collection, ingestion, processing, and storage.
 
-![DataTerms](/images/image16.png)
+![DataTerms](/images/image16.jpeg)
 
 ### Context of Use
 
