@@ -329,6 +329,8 @@ Delta Lake
 Introduces some performance overhead due to its ACID transaction log, which can affect high-frequency update scenarios.
 Limited to environments that utilize Apache Spark and are compatible with Parquet format storage.
 
+Medallion: https://www.databricks.com/glossary/medallion-architecture
+
 ### Conclusion
 
 While a data lake serves as a vast reservoir of raw data ready for various types of analytics, Delta Lake provides a structured overlay that ensures data integrity and enhances the analytical capabilities of a data lake environment, particularly for users of Apache Spark. Delta Lake is essentially about adding a layer of organization and reliability to the expansive storage capabilities of a data lake.
